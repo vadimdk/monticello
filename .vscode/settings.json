@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "michelemelluso.code-beautifier",
+  "[scss]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+  }
+}
