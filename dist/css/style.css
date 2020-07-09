@@ -560,7 +560,7 @@ main .wrapper h2 {
 .news__slider .slick-prev {
   position: absolute;
   top: 50%;
-  background: url(/images/sl-arrow_l.svg) 50% 50% no-repeat;
+  background: url(https://vadimdk.github.io/monticello/images/sl-arrow_l.svg) 50% 50% no-repeat;
   left: -5%;
 }
 
@@ -581,7 +581,7 @@ main .wrapper h2 {
 .news__slider .slick-next {
   position: absolute;
   top: 50%;
-  background: url(/images/sl-arrow_r.svg) 50% 50% no-repeat;
+  background: url(https://vadimdk.github.io/monticello/images/sl-arrow_r.svg) 50% 50% no-repeat;
   right: -5%;
 }
 

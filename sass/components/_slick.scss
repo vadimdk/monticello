@@ -177,10 +177,9 @@
     .slick-prev {
         position: absolute;
         top: 50%;
-        background: url(/images/sl-arrow_l.svg) 50% 50% no-repeat;
-
-        left: -5%;
-
+        background: url(https://vadimdk.github.io/monticello/images/sl-arrow_l.svg) 50% 50% no-repeat;
+        left: -5%; 
+ 
         &.slick-arrow {
 
 
@@ -207,7 +206,7 @@
     .slick-next {
         position: absolute;
         top: 50%;
-        background: url(/images/sl-arrow_r.svg) 50% 50% no-repeat;
+        background: url(https://vadimdk.github.io/monticello/images/sl-arrow_r.svg) 50% 50% no-repeat;
         right: -5%;
 
         &.slick-arrow {
